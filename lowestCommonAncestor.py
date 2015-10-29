@@ -1,4 +1,6 @@
-__author__ = 'Administrator'
+# !/usr/bin/env python
+# encoding: utf-8
+__author__ = 'dm'
 """
 Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.
 """
